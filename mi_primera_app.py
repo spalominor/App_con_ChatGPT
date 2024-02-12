@@ -1,3 +1,4 @@
+pip install streamlit
 import streamlit as st
 
 # Título y autor
